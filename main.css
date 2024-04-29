@@ -75,3 +75,9 @@ img {
     background-position: center;
     background-repeat: no-repeat;
 }
+
+i {
+    position: absolute;
+    left: 20px;
+    color: white !important;
+}
